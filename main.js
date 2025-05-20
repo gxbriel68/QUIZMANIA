@@ -51,7 +51,11 @@ const preguntas = {
 { p: "¿Qué rey francés fue guillotinado durante la Revolución?", r: "Luis XVI" },
 { p: "¿Qué conflicto se llamó la Gran Guerra?", r: "La Primera Guerra Mundial" },
 { p: "¿Qué país fue gobernado por Stalin?", r: "La Unión Soviética" },
-
+{ p: "¿Quién fue el primer presidente de Estados Unidos?", r: "George Washington" },
+{ p: "¿En qué año comenzó la Segunda Guerra Mundial?", r: "1939" },
+{ p: "¿Qué civilización construyó las pirámides?", r: "Los egipcios" },
+{ p: "¿Quién descubrió América?", r: "Cristóbal Colón" },
+{ p: "¿En qué año cayó el Imperio Romano de Occidente?", r: "476 d.C." },
   ],
 
   verde: [
